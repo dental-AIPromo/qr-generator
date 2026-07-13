@@ -2,6 +2,35 @@
 
 # Official icon sources and hashes
 
+## Summary (per-brand)
+
+### X
+- 素材名: X ロゴ（logo.svg）
+- 取得元公式URL: https://about.x.com/ja/who-we-are/brand-toolkit
+- ブランドガイドライン: https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-brand-guidelines.pdf
+- 取得日: 2023-08-01
+- ファイルパス (例): assets/icons/x/unpacked-x-logo/logo.svg
+- SHA256 (例): DD46F96B6F47FCD33683B79DDFAF3DACA1D4F8AEBA3C0F2BDE1584C69CC699D4
+- ステータス: 許諾確認中・配布不可
+
+### Instagram
+- 素材名: Instagram Glyph（SVG）
+- 取得元公式URL: https://about.meta.com/brand/resources/instagram/
+- ブランドガイドライン: https://about.meta.com/brand/resources/instagram/
+- 取得日: 2026-07-13
+- ファイルパス (例): assets/icons/instagram/-7pQO6hUGK_.svg
+- SHA256 (例): 9C354DC7D40F7862DF2DFB34DF05AE08C3E956D55A450379803D6CAC6878A63E
+- ステータス: 許諾確認中・配布不可
+
+### LINE
+- 素材名: LINE アイコン（PNG）
+- 取得元公式URL: https://www.line.me/en/logo
+- ブランドガイドライン: https://www.line.me/en/logo
+- 取得日: 2026-07-13
+- ファイルパス (例): assets/icons/line/android-icon-192x192.png
+- SHA256 (例): 6CB39F51D06605588A8643F91A863C5E5FD964C343CEA924A28CEE40FD669F1F
+- ステータス: 許諾確認中・配布不可
+
 Brand: x
 Source URL: https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-logo.zip
 Saved file: C:\Users\1110281\OneDrive - 株式会社EPARK\ドキュメント\copilot-worktrees\qr-code-generator-src\yterai-ehc-curly-system\assets\icons\x\x-logo.zip
