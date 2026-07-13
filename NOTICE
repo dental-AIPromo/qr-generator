@@ -1,0 +1,20 @@
+Project license: GPL-3.0-only
+
+Third-party components and licenses (初期版):
+
+- qrcode (MIT)
+  - 用途: QR モデル（モジュール行列）の生成と、ブラウザでの PNG 出力の補助
+  - 理由: 安定した軽量実装でブラウザ/Node 双方をサポート、ライセンスが緩和（MIT）で用途に合致
+
+- jsdom (MIT) (dev)
+  - 用途: テスト実行時の jsdom 環境（Vitest のテスト環境に利用）
+  - 理由: テスト環境をローカルで再現するために必要（開発依存）
+
+Official brand assets (X / Instagram / LINE):
+- 保存場所: assets/icons/
+- 各ファイルの出典・取得日時・SHA256 は assets/icons/LICENSE.md に記載済み
+- 取得方針: 公式のブランドリソースページから、ガイドラインに従い未加工の公式アセットを取得（可能な場合）。
+- 注意: ブランドアセットの使用には各社のブランドガイドラインが適用されます（色変更・加工禁止、周囲余白ルール等）。
+- 公開(外部へ配布)の可否: ブランド当事者の規約によるため、assets/icons の内容を Public docs に自動で同期することは行いません。Public へ含める場合は法務/ブランド担当者の確認および人間による承認を必須としてください。
+
+注意: 将来 qr-code-styling 等の追加ライブラリを採用する場合は、そのライセンスと影響（商用利用、配布制限等）を本 NOTICE に明記します。
