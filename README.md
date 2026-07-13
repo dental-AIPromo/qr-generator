@@ -21,7 +21,7 @@
 その他:
 - 目的・要点: React + TypeScript + Vite + Vitest + ESLint 構成、サーバー送信なし、GPL-3.0-only ライセンス
 - 依存ライブラリと理由: NOTICE を参照
-- ブランド資産: assets/icons/、出典と SHA256 は assets/icons/LICENSE.md を参照。Public への配布は法務/ブランド承認が必要です。
+- ブランド資産: assets/icons/。出典と SHA256 は assets/icons/LICENSE.md を参照してください。これらのブランド素材は商標権者の所有物であり、プロジェクトの GPL-3.0-only ライセンスの対象外です。法務/ブランド担当による明示的な許諾があるまで、UI および Public ビルド成果物には含めません。詳細: assets/icons/LICENSE.md
 
 Supported output formats and constraints:
 
